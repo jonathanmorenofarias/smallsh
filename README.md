@@ -12,7 +12,7 @@ and SIGTSTP (stop) for disabling and reenabling background processes. The ampers
 * Input and output redirection.
 * Custom signal handling for graceful termination (SIGINT) and background process suspension/resumption (SIGTSTP).
 * Ignoring the ampersand (&) for background processes.
-* *Dockerized for easy deployment: https://hub.docker.com/repository/docker/jonathanmoreno/smallsh/general
+* Dockerized for easy deployment: https://hub.docker.com/repository/docker/jonathanmoreno/smallsh/general
 
 # Compilation
 
